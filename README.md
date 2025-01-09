@@ -1,0 +1,2 @@
+# thomza.dev
+my blog
